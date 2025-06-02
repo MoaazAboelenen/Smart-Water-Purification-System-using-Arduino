@@ -72,3 +72,11 @@ Loop Repeat:
 After 50 minutes, the cycle restarts automatically
 
 You can customize timing and control logic easily in code.
+🤝 Teamwork
+This project was built through strong teamwork and collaboration. Each team member contributed to specific aspects, from hardware setup and AI training to wearable design and testing.
+
+Team Members:
+[Abdelrahman Waleed] –
+
+
+
